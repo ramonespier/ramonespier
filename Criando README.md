@@ -24,5 +24,3 @@ Ensino médio completo.
 - 🤔 Quero ajudar e ser ajudado 
 - 💬 Pergunte-me sobre programação e jogos
 - 📫 Entre em contato pelo email
-- 😄 Pronouns: ele/dele
-- ⚡ Curiosidades: 
