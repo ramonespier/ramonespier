@@ -1,64 +1,33 @@
-### Ramon Coelho
-Atualmente estudando programção front-end no SENAI-SP. Tenho 18 anos, namoro, gosto de esportes e **principalmente** jogos e streams.
+<div align="center">
+  
+<h1> Olá! Me chamo Ramon Coelho 👋 </h1>
 
-## Formação
-Ensino médio completo.
+</div>
 
-## Aprendendo:
-* Markdown (linguagem de marcação)
-[Guia básico de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-* HTML (linguagem de marcação)
-* CSS (linguagem de estilização)
-* PowerShell (terminal Windows)
-* Bash (terminal Linux)
-* Git (Sistema de Controle de Versionamento)
-* GitHub (plataforma de hospedagem de código-fonte)
+<img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
 
-  O que vamos fazer em seguida:
-  1. Terminar o arquivo README
-  2. Fazer commit (commitar)
-  3. Abrir o repositório
+<div align="center">
+  
+![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonespier&show_icons=true&theme=transparent)
 
-[Ilustração de dois desenvolvedores](https://blog.xpeducacao.com.br/wp-content/uploads/2022/12/desenvolvedor-de-software.jpg)
+</div>
 
-> "Há males que vêm para o bem"
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonespier&layout=compact&theme=transparent)
 
-### Algumas tags HTML que estou aprendendo:
+</div>
 
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8">
-    <title>Minha página</title>
-  </head>
-  <body>
-    <h1>Minha página</h1>
-    <p>Meu parágrafo</p>
-  </body>
-</html>
-```
+<img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
 
-A tag `<!DOCTYPE html>` indica a versão do HTML no documento.
-
-A tag `<html lang="pt-BR">` Indica o início do documento HTML. O atributo `lang="pt-BR"` indica o idioma da página.
-
-A tag `<head>` indica onde estão as meta informações da página.
-
-A tag `<meta charset="UTF-8">` é uma tag meta que indica aos navegadores qual é o formato de codificação de caracteres utilizado naquele documento.
-
-A tag `<title>` indica o título do documento no navegador (barra de título ou aba).
-
-A tag `<body>` marca o conteúdo que será apresentado ao usuário. É o "corpo" da página.
-
-A tag `<h1>` é utilizada para marcar um título de importância nivel 1 na página da web.
-
-A tag `<p>` representa um parágrafo dentro do documento HTML.
-
-
-### Tabela de proficiência
-
-Idioma |  Nível
-:-------: | :--------:
-Inglês | Intermediário (B1)
-Espanhol | Iniciante
+<div align="center">
+<h2>Skills</h2>
+</div>
+<div align="center" style="display: inline_block"><br/>
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+</div>
