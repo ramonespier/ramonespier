@@ -15,7 +15,7 @@
 
 <div align="center">
   
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonespier&layout=compact&theme=transparent)
 
 </div>
 
