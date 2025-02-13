@@ -9,13 +9,13 @@
 
 <div align="center">
   
-
+![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonespier&show_icons=true&theme=transparent)
 
 </div>
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonespier&layout=compact&theme=transparent)
+
 
 </div>
 
