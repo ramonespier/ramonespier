@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonespier&show_icons=true&theme=radical)
+![ramonespier's Stats](https://github-readme-stats.vercel.app/api?username=ramonespier&theme=radical&show_icons=true&hide_border=false&count_private=false)
 
 </div>
 
