@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonespier&layout=donut-vertical&theme=radical)](https://github.com/ramonespier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonespier&layout=donut&theme=radical&hide=hack,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
